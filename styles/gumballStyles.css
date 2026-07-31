@@ -31,6 +31,15 @@ h2 {
     margin-bottom: 0;
 }
 
+.about h2 {
+    color: white;
+    font-size: 3.0rem;
+    font-family: 'Chewy', serif, sans-serif;
+    margin-top: 20px;
+    margin-bottom: 0;
+    margin-top: 50px;
+}
+
 button {
     color: white;
     font-family: 'Chewy', serif, sans-serif;
