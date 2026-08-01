@@ -297,6 +297,16 @@ ul.topnav {
         width: 150px;
         height: 200px;
     }
+
+    ul.topnav {
+    font-size: 27px;
+    padding: 18px 22px;
+}
+
+.collapsible{
+    font-size: 32px;
+    padding: 22px;
+}
 }
 
 
